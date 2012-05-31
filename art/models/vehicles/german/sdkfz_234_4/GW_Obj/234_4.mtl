@@ -1,0 +1,100 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 20.05.2012 22:19:55
+
+newmtl Standard_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\PakWagons_Addons_34Camo.jpg"
+	map_Kd "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\PakWagons_Addons_34Camo.jpg"
+
+newmtl Standard_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\tex_ax_armoured_car_dif.jpg"
+	map_Kd "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\tex_ax_armoured_car_dif.jpg"
+
+newmtl Standard_8
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\tex_wrecked_ax_armoured_car_dif.jpg"
+	map_Kd "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\tex_wrecked_ax_armoured_car_dif.jpg"
+
+newmtl Standard_7
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\tex_ax_armoured_car_dif.dds"
+	map_Kd "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\tex_ax_armoured_car_dif.dds"
+
+newmtl Standard_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\pak_Camo1.jpg"
+	map_Kd "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\pak_Camo1.jpg"
+
+newmtl Standard_13
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\Wrecked_pakgrey512.jpg"
+	map_Kd "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\Wrecked_pakgrey512.jpg"
+
+newmtl Standard_9
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\Wrecked_234_4_Addons.jpg"
+	map_Kd "E:\Storage\Backup\BU\N44Stuff\RelicVehicles\Working On\sdkfz234-4\DDS\Wrecked_234_4_Addons.jpg"
